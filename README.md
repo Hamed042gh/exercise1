@@ -1,0 +1,2 @@
+# exercise1
+why post_id in null????
